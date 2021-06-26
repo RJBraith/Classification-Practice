@@ -23,7 +23,7 @@ Each algorithm was placed in it's own pipeline, scaled and fit accordingly and t
 
 The results show that all of the models are close but if I had to choose a top 3, KNN would be my number 1, followed by logit and random forest.
 This is because these three models achieve high balanced accuracy in their individual fittings as well as in the cross validation test. They also achieve low misclassification, the lowest I achieved was 60 passengers misclassified.
-That being said, all of the models perform quite well it is just these three are the better performing of the group.
+That being said, all of the models perform quite well, it is just these three are the better performing of the group.
 
 This was a great exercise in practicing how to apply pipelines to contain algorithms and their preprocessing as well as being a good use case for KNN imputation
 
