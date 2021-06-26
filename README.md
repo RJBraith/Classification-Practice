@@ -4,7 +4,7 @@ A place for me to apply classification modelling techniques to data.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RJBraith/Classification-Practice/HEAD)
 
 ---
-## Titanic Dataset
+### 4. Titanic Dataset
 An exercise on an already well documented dataset so I can measure my process compared to others and see where my bad habits / areas of strength lie.
 
 The data I downloaded came fragmented into 3 csv files, so I created a merge script and used the merged csv as my dataframe in the notebook.
